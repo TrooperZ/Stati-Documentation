@@ -5,12 +5,12 @@ For support and discussion about the bot, visit out discord server [here](https:
 
 ### `g/csgostats <user>`
 
-Fetches stats from a player. Valid items for `user` is the Steam ID (string of numbers) or your steam profile link name (https://steamcommunity.com/id/yourlinknamehere/).
+Fetches stats from a player. Valid items for `user` is the Steam ID (string of numbers) or your steam profile link name (https://steamcommunity.com/id/**yourlinkname**/).
 ![csgostats example image](/assets/csgostats_example1.png)
 
 ### `g/csgoguns <user> [category]`
 
-Fetches gun stats from a player. Valid items for `user` is the Steam ID (string of numbers) or your steam profile link name (https://steamcommunity.com/id/yourlinknamehere/). Valid `category` options are `all`, `pistol`, `rifle`, `smg`, and `heavy`. 
+Fetches gun stats from a player. Valid items for `user` is the Steam ID (string of numbers) or your steam profile link name (https://steamcommunity.com/id/**yourlinkname**/). Valid `category` options are `all`, `pistol`, `rifle`, `smg`, and `heavy`. 
 
 Note: the following guns are categorised together in terms of stats (this is how Steam handles it)
 - USP-S + P2000
@@ -24,6 +24,6 @@ Note: the following guns are categorised together in terms of stats (this is how
 
 ### `g/csgomaps <user>`
 
-Fetches map stats from a player. Valid items for `user` is the Steam ID (string of numbers) or your steam profile link name (https://steamcommunity.com/id/yourlinknamehere/).
+Fetches map stats from a player. Valid items for `user` is the Steam ID (string of numbers) or your steam profile link name (https://steamcommunity.com/id/**yourlinkname**/).
 
 ![csgomaps example image](/assets/csgomaps_example1.png)
