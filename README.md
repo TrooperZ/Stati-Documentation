@@ -1,5 +1,5 @@
 # Stati-Documentation
-For support and discussion about the bot, visit out discord server [here](https://discord.gg/c4Bg7Bw7B4). You can add 
+For support and discussion about the bot, visit out discord server [here](https://discord.gg/c4Bg7Bw7B4). You can add the bot [here](https://discord.com/api/oauth2/authorize?client_id=854781625236848640&permissions=379968&scope=bot)
 
 ## Counter Strike: Global Offensive Commands
 
