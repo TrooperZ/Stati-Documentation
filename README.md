@@ -1,6 +1,10 @@
 # Stati-Documentation
 For support and discussion about the bot, visit out discord server [here](https://discord.gg/c4Bg7Bw7B4). You can add the bot [here](https://discord.com/api/oauth2/authorize?client_id=854781625236848640&permissions=379968&scope=bot)
 
+---
+
+[CS:GO Commands](https://github.com/TrooperZ/Stati-Documentation/blob/main/README.md#counter-strike-global-offensive-commands)
+
 ## Counter Strike: Global Offensive Commands
 
 ### `g/csgostats <user>`
