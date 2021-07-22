@@ -27,3 +27,9 @@ Note: the following guns are categorised together in terms of stats (this is how
 Fetches map stats from a player. Valid items for `user` is the Steam ID (string of numbers) or your steam profile link name (https://steamcommunity.com/id/**yourlinkname**/).
 
 ![csgomaps example image](/assets/csgomaps_example1.png)
+
+### `g/csgorecoil <gun> [type]`
+
+Displays a gif of the weapon recoil. Valid items for `gun` is any CS:GO weapon's name. `type` is an optional argument that defines the gif to be either the recoil pattern or how you control it.
+
+![csgorecoil example image](/assets/csgorecoil_example1.png)                      ![csgorecoil example image2](/assets/csgorecoil_example2.png)
