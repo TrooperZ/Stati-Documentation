@@ -7,6 +7,8 @@ For support and discussion about the bot, visit out discord server [here](https:
 
 ## Counter Strike: Global Offensive Commands
 
+Reminder: your Steam ID can be found using [this tool](https://steamid.io/lookup)
+
 ### `g/csgostats <user>`
 
 Fetches stats from a player. Valid items for `user` is the Steam ID (string of numbers) or your steam profile link name (https://steamcommunity.com/id/**yourlinkname**/).
